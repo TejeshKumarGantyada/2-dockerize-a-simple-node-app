@@ -95,7 +95,7 @@ docker-node-todo-app/
 
 ## 📸 Screenshots
 
-> *Add screenshots of your app running here!*
+> ![App Screenshot](assets/app.png)
 
 ---
 
